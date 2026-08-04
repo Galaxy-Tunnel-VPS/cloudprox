@@ -9,5 +9,5 @@ keep_vars = true
 [vars]
 # UUID ကို ဒီမှာ မထည့်ထားဘူး (Dashboard မှာ ထည့်ထားမယ်)
 PROXYIP = "cdn-b100.xn--b6gac.eu.org"
-PROXY_LIST_URL = "https://raw.githubusercontent.com/gprox-galaxy/Gproxy-domaip/refs/heads/main/PROXYIP.txt"
-DNS_RESOLVER_URL = "https://e538jrjizj.cloudflare-gateway.com/dns-query"
+PROXY_LIST_URL = "https://raw.githubusercontent.com/Galaxy-Tunnel-VPS/cloudprox/refs/heads/main/PROXYIP.txt"
+DNS_RESOLVER_URL = "https://.4vn0du1wqy.cloudflare-gateway.com/dns-query"
